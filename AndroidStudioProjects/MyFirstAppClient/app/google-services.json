@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "535145298184",
+    "firebase_url": "https://myfirstappclient.firebaseio.com",
+    "project_id": "myfirstappclient",
+    "storage_bucket": "myfirstappclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535145298184:android:503f03b0777c7dd5",
+        "android_client_info": {
+          "package_name": "com.example.amir.myfirstappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535145298184-64if3q8b1fq7tmp0af8ofbkc6vj7o6k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amir.myfirstappclient",
+            "certificate_hash": "72260238b6938c5caf7a3abbbc4e53ead1d91b86"
+          }
+        },
+        {
+          "client_id": "535145298184-8jq0agnocoo2me3i7662868s14ts329q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEJVzVKVD-lpBrwYVwJaX7twUuOTZmJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535145298184-8jq0agnocoo2me3i7662868s14ts329q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535145298184:android:fdb74f014593b2b5",
+        "android_client_info": {
+          "package_name": "com.example.amir.myfirstappclient.hidden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535145298184-ng21o63i0mfftph608v53b3v35sinlsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amir.myfirstappclient.hidden",
+            "certificate_hash": "72260238b6938c5caf7a3abbbc4e53ead1d91b86"
+          }
+        },
+        {
+          "client_id": "535145298184-8jq0agnocoo2me3i7662868s14ts329q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEJVzVKVD-lpBrwYVwJaX7twUuOTZmJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535145298184-8jq0agnocoo2me3i7662868s14ts329q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
